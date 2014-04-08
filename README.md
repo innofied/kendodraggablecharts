@@ -9,7 +9,7 @@ Creating draggable line, bar and column charts with Kendo UI
 Details
 ====================
 
-Go to <a target="_blank" href="http://innofied.com/kendodraggablecharts">Innofied Blog</a> for demo.
+Go to <a target="_blank" href="http://innofied.com/kendo-ui-draggable-chart">Innofied Blog</a> for demo.
 
 Kendo UI provide us a lot of facilities but while developing a product we may sometimes
  need some features which are not supported by the framework. Here we will be discussing
